@@ -1,0 +1,5 @@
+<resources>
+    <string name="btn1">Chinese</string>
+    <string name="btn2">English</string>
+    <string name="btn3">Japanese</string>
+</resources>
